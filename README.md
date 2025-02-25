@@ -8,4 +8,4 @@
 
 **Some Experience / Leaning:**
 
-[![Some Experience / Learning](https://skillicons.dev/icons?i=py,html,js,css,mysql,cpp,fl)](https://skillicons.dev)
+[![Some Experience / Learning](https://skillicons.dev/icons?i=py,html,css,js,react,mysql,cpp,fl)](https://skillicons.dev)
